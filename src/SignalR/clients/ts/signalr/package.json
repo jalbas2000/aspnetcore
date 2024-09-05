@@ -53,7 +53,7 @@
     "es6-promise": "^4.2.2"
   },
   "dependencies": {
-    "eventsource": "^1.0.7",
+    "eventsource": "^1.1.2",
     "node-fetch": "^2.6.0",
     "abort-controller": "^3.0.0",
     "fetch-cookie": "^0.7.3",
